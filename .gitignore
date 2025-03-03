@@ -1,0 +1,7 @@
+# Except .cs and .pdf files
+!**/*.cs
+!**/*.pdf
+
+**/*.sln
+# Ignore everything in the folder
+*/*/*
