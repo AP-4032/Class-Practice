@@ -1,4 +1,4 @@
-# Advanced Programming Assignments - Solutions
+# Advanced Programming Class Exercise - Solutions
 
 ## Overview
 
