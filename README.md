@@ -1,34 +1,27 @@
-# Advanced Programming Quizzes - Solutions
+# Advanced Programming Assignments - Solutions
 
 ## Overview
 
-This repository contains the solution codes for the **Advanced Programming** course quizzes. The solutions are written in **C#** and are made available after each quiz for students to review and learn from.
+This repository contains the solution codes for the class exercises of the **Advanced Programming** course. The solutions are implemented in **C#** and are structured in a way that students can easily find and review them after completing them.
 
 ## Repository Structure
 
-The repository is organized into folders, each corresponding to a specific quiz. Inside each folder, you will find:
+The repository is organized into folders, each corresponding to an assignment. Inside each folder, you will find:
 
--   **Solution Files (`.cs`)**: These files contain the correct implementation for each problem in the quiz.
--   **Documentation (`Q*`)**: Additional explanations or notes related to the quiz.
+-   **Solution Files (`.cs`)**: These files contain the correct implementation for each problem in the assignment.
+-   **Documentation (`CE*`)**: Additional explanations or notes related to the assignment.
 
 ### Folder & File Structure:
 
 ```
 / (Root)
-│── 1/  (Quiz 1)
+│── 1/  (Class Exercises 1)
+│   │── 1.cs
+│   │── CE1 (Documentation)
+│── 2/  (Class Exercises 2)
 │   │── 1.cs
 │   │── 2.cs
-│   │── 3.cs
-│   │── 4.cs
-│   │── 5.cs
-│   │── Q1 (Documentation)
-│── 2/  (Quiz 2)
-│   │── 1.cs
-│   │── 2.cs
-│   │── 3.cs
-│   │── 4.cs
-│   │── 5.cs
-│   │── Q2 (Documentation)
+│   │── CE2 (Documentation)
 │── 3/
 │── 4/
 │── 5/
@@ -38,16 +31,14 @@ The repository is organized into folders, each corresponding to a specific quiz.
 
 ## How to Use
 
-1. **Navigate to the Quiz Folder**: Locate the folder corresponding to the quiz number (e.g., `1/` for Quiz 1).
+1. **Navigate to the Class Exercise Folder**: Find the relevant class exercise folder (e.g., `1/` for Class Exercise 1).
 2. **Open the Solution Files**: Each problem solution is numbered accordingly (`1.cs`, `2.cs`, etc.).
-3. **Review Documentation**: The `Q*` file provides additional details about the quiz.
-4. **Learn from the Solutions**: Compare your own answers with the correct ones to understand the correct approach.
+3. **Review Documentation**: The `HW*` file provides additional details about the class exercise.
+4. **Learn from the Solutions**: Compare with your own implementation and understand the correct approach.
 
 ## Notes
 
--   These solutions are provided for **learning purposes only**. Students are encouraged to attempt the quizzes before reviewing the solutions.
+-   These solutions are provided for **learning purposes only**. Students are encouraged to attempt the class exercises before reviewing the solutions.
 -   If you have any questions, feel free to discuss them in the course forums or with the Teaching Assistants.
 
 Happy Coding! 🚀
-
-#
